@@ -74,7 +74,7 @@
    
 
    
-## AULA 2.5 
+## AULA 3
 
 - Apresentação de Conceitos Básicos da Programação (Criativa)
   - *Language Agnostic*
@@ -83,11 +83,17 @@
     - "Desenhe uma linha"
      ...linguagens de programação só entendem as palavras que fazem parte do vocabulário daquela linguagem!
 
+
+
+- Elaboração de um sketch-base para todos os projetos, com setup e draw, funções úteis para monitoração de debugging
+
+
 - Conceitos:
   - *Funções*: /instruções/ para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
   - *Argumentos*: /qualificadores/ de uma função em particular. "...mas faça dessa maneira"
   - *Sintaxe*: /convenção/ de como a escrita de uma linguagem se dá.
     - **RTFM!** - https://processing.org/reference/
+
 
 - Vocabulário:
   - size()
@@ -102,5 +108,32 @@
   - Ordem de execução
 
 
+
+
+
+Funções: /instruções/ para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
+Argumentos: /qualificadores/ de uma função em particular. "...mas faça dessa maneira"
+Sintaxe: /convenção/ de como a escrita de uma linguagem se dá.
++++
+Iteração: /x = x + 1/ Modificação dos valores da caixa, de modo auto-referencial
+Condicionais: /SE/, pergunta ao programa algo, e dá opções do que fazer
+
+
+- Vocabulário:
+
+ - background()
+ - random()
+ - fill() / noFill()
+ - colorMode()
+ - stroke()
+ - noStroke()
+ - strokeWeight()
+ - saveFrame()
+ - println()
+ - translate()
+
+Lançamento do primeiro DESAFIO
+
+Desafio #1 -Rule of Thirds:Seguindo a teoria do enquadramento fotográfico, desenvolver um sketch que crie uma grid de terços responsiva
  
 

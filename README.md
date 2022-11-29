@@ -121,19 +121,30 @@ Condicionais: /SE/, pergunta ao programa algo, e dá opções do que fazer
 
 - Vocabulário:
 
- - background()
- - random()
- - fill() / noFill()
- - colorMode()
- - stroke()
- - noStroke()
- - strokeWeight()
- - saveFrame()
- - println()
- - translate()
+  - background()
+  - random()
+  - fill() / noFill()
+  - colorMode()
+  - stroke()
+  - noStroke()
+  - strokeWeight()
+  - saveFrame()
+  - println()
+  - translate()
 
-Lançamento do primeiro DESAFIO
+## LISTA DE DESAFIOS
 
-Desafio #1 -Rule of Thirds:Seguindo a teoria do enquadramento fotográfico, desenvolver um sketch que crie uma grid de terços responsiva
+ - Desafio #1 -Rule of Thirds:Seguindo a teoria do enquadramento fotográfico, desenvolver um sketch que crie uma grid de terços responsiva
  
+ - Desafio #2 -Xadrez/Damas: Da maneira mais eficaz possível, faça um sketch que resulte num tabuleiro/mesa de Xadrez
+
+ - Desafio #3 - Colisão: Faça um programa que seja capaz de detectar colisões, seja entre "objetos" ou as bordas do ecrã.
+
+
+ - Desafio #4 -Guided Meditation:Desenvolva uma animação, de forma livre, que guie um ciclo respiratório (inspire-expire)
+
+ - Desafio #5 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda.
+
+ - Desafio #6 - Mouse quadrante: Utilize a posição X e Y do rato para assinalar os 4 quadrantes do ecrã. 
+Podem utilizar texto,cor e tamanho de "objetos", etc. 
 

@@ -1,10 +1,5 @@
 # ISMAIProgCriativa2022
 
-
-
-[LINK P/ NOSSA PASTA NO GDRIVE]
-
-
 ## AULA 1 -
 
 

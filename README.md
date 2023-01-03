@@ -143,3 +143,16 @@ Condicionais: /SE/, pergunta ao programa algo, e dá opções do que fazer
  - Desafio #6 - Mouse quadrante: Utilize a posição X e Y do rato para assinalar os 4 quadrantes do ecrã. 
 Podem utilizar texto,cor e tamanho de "objetos", etc. 
 
+ - Desafio #7 -Frieder Nake,Random Polygon, 1963; Referencia
+
+ - Desafio #8 -Cara ou Coroa: Desenvolva um sketch capaz de lançar uma moeda, um sorteio de probabilidade 50% e visualizar o resultado
+
+ - Desafio #9 -I Ching: A partir do Cara ou Coroa, faça um sketch que resulte num hexograma para um jogo de I Ching
+
+ - Desafio #10 -RandomWalker: Este é um dos algoritmos mais clássicos da programação visual e da matemática. Utiliza também o sorteio como forma de controle.
+
+//Desafio #11 -Brush: Desenvolver um programa que Utiliza a posição do mouse e o click para pintar, de forma livre, no canvas
+Desafio #12 -Mondrian/De Stijl: Desenvolver um programa que utilize este movimento artístico como referencia estética para composições
+Desafio #13 -Sound Visualizer: Desenvolver alguma forma de visualizar som, utilizando a biblioteca própria para input sonoro
+Desafio #14 -3D: Livre, composição livre em espaço tridimensional utilizando o renderer P3D
+//

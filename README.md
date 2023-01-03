@@ -151,7 +151,7 @@ Podem utilizar texto,cor e tamanho de "objetos", etc.
 
  - Desafio #10 -RandomWalker: Este é um dos algoritmos mais clássicos da programação visual e da matemática. Utiliza também o sorteio como forma de controle.
 
- - Desafio #11 -Brush: Desenvolver um programa que Utiliza a posição do mouse e o click para pintar, de forma livre, no canvas
+ - Desafio #11 -Paint: Desenvolver um programa que Utiliza a posição do mouse e o click para pintar no canvas de diferentes formas
 
  - Desafio #12 -Mondrian/De Stijl: Desenvolver um programa que utilize este movimento artístico como referencia estética para composições
  
